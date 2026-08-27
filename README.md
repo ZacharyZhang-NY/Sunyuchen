@@ -18,6 +18,14 @@
 
 另有十条启发式，五个陷阱，一份逐字分析，一份全文语料。语料是用来校准手感的。
 
+## 现在有两个 skill
+
+`sunyucheng-writing-skill`：文笔。一篇文章里拆出来的，七条律则。
+
+`sunyuchen-perspective`：人格。一百七十个来源里拆出来的，七个心智模型。
+
+一个管他怎么写。一个管他怎么赢。
+
 ## 怎么用
 
 把整个目录放进你的 skills 文件夹。然后说，用 sunyucheng-writing-skill 写。
