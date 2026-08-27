@@ -1,4 +1,4 @@
-# sunyucheng
+# sunyucheng-writing-skill
 
 一个文笔 skill。
 
@@ -6,7 +6,7 @@
 
 ## 里面有什么
 
-`sunyucheng/SKILL.md`。七条律则：
+`sunyucheng-writing-skill/SKILL.md`。七条律则：
 
 1. 零度情感。越痛越平。
 2. 数字即抒情。一颗卵子，三点五微克。
@@ -20,7 +20,7 @@
 
 ## 怎么用
 
-把整个目录放进你的 skills 文件夹。然后说，用 sunyucheng 写。
+把整个目录放进你的 skills 文件夹。然后说，用 sunyucheng-writing-skill 写。
 
 它会写得很短。写得很平。写到最后，什么都没有发生。
 
